@@ -20,8 +20,8 @@ Supported objects include:
   * All of the primitive array types.
   * String type.
   * WriteableBitmap and derived types.
-  * IList<<string>> and derived types.
-  * IList<<WriteableBitmap>> and derived types.
+  * IList\<string\> and derived types.
+  * IList\<WriteableBitmap\> and derived types.
   
 ## To-do  
   
