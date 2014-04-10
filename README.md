@@ -16,17 +16,17 @@ A custom Binary Serializer implementation for [**Windows Phone 8**](http://devel
 
 Represents a class that performs BinarySerialization on a number of different objects.
 Supported objects include:
-  The safe primitive types, e.g. Boolean, Byte, SByte, Int16, UInt16, Int32, UInt32, Int64, UInt64, Char, Double, and Single.
-  All of the primitive array types.
-  String type.
-  WriteableBitmap and derived types.
-  IList<string> and derived types.
-  IList<WriteableBitmap> and derived types.
+  * The safe primitive types, e.g. Boolean, Byte, SByte, Int16, UInt16, Int32, UInt32, Int64, UInt64, Char, Double, and Single.
+  * All of the primitive array types.
+  * String type.
+  * WriteableBitmap and derived types.
+  * IList<string> and derived types.
+  * IList<WriteableBitmap> and derived types.
   
 ## To-do  
   
-**TODO** Write code to recursively serialize IList<Ilist<Ilist...
-**TODO** Any class that might be serialized must be marked with the SerializableAttribute
+* **TODO** Write code to recursively serialize IList<Ilist<Ilist...
+* **TODO** Any class that might be serialized must be marked with the SerializableAttribute
 
 ## Created and maintained by:
 [Francisco Aguilera](http://www.dapper-apps.com)
