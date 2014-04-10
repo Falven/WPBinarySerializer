@@ -10,7 +10,7 @@ To see the article about this app, visit http://www.dapper-apps.com/DapperToolki
 DapperBinarySerializer
 ==========================
 
-A custom Binary Serializer implementation for [**Windows Phone 8**]()
+A custom Binary Serializer implementation for [**Windows Phone 8**](http://developer.windowsphone.com/en-us)
 
 ## Notes
 
