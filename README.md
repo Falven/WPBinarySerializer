@@ -8,9 +8,11 @@ license agreement between you and Dapper Apps.
 To see the article about this app, visit http://www.dapper-apps.com/DapperToolkit
 
 DapperBinarySerializer
-==================
+==========================
 
-A custom Binary Serializer implementation for Windows Phone 8
+A custom Binary Serializer implementation for [**Windows Phone 8**]()
+
+## Notes
 
 Represents a class that performs BinarySerialization on a number of different objects.
 Supported objects include:
@@ -21,6 +23,10 @@ Supported objects include:
   IList<string> and derived types.
   IList<WriteableBitmap> and derived types.
   
+## To-do  
   
-TODO Write code to recursively serialize IList<Ilist<Ilist...
-TODO Any class that might be serialized must be marked with the SerializableAttribute
+**TODO** Write code to recursively serialize IList<Ilist<Ilist...
+**TODO** Any class that might be serialized must be marked with the SerializableAttribute
+
+## Created and maintained by:
+[Francisco Aguilera](http://www.dapper-apps.com)
